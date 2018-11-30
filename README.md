@@ -1,6 +1,8 @@
 # COC-Solunar_Calendar
 WordPress template for CampOutColorado.com to add a Solunar Calendar. 
 
+This template is for use in a child theme under the Customizr main theme. 
+
 === Camp Out Colorado Solunar Calendar ===
 Contributors: Troy Whitney
 Requires at least: 4.9.8
