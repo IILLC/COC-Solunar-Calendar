@@ -1,0 +1,12 @@
+/*
+Theme Name:     customizr Child for COC
+Theme URI:      http://www.campoutcolorado.com/
+Description:    Child theme for customizr handling customizations for http://www.campoutcolorado.com/ 
+Author:         Troy Whitney
+Author URI:     http://www.imageinnovationsllc.com/
+Template:       customizr
+Version:        1.0.0
+*/
+
+@import url("../customizr/style.css"); /*Imports style so small pieces can be modified. Such as Menu layout buttons and text editor*/
+
