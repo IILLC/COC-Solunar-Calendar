@@ -3,6 +3,8 @@ WordPress template for CampOutColorado.com to add a Solunar Calendar.
 
 This template is for use in a child theme under the Customizr main theme. 
 
+Dee it in action here: http://www.campoutcolorado.com/best-fishing-times-solunar-calendar/
+
 === Camp Out Colorado Solunar Calendar ===
 Contributors: Troy Whitney
 Requires at least: 4.9.8
